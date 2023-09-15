@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<int> partitionLabels(string s) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
         vector<int>res;
         unordered_map<char,int>mp;
         for(int i=0;i<s.length();i++)
