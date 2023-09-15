@@ -1,13 +1,18 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
+        ios::sync_with_stdio(0);
+        cin.tie(0);
         int n=nums.size();
-        vector<int> arr(n+1,0);
-        for(int i=0;i<nums.size();i++)
-            arr[nums[i]]++;
-        for(int i=0;i<arr.size();i++){
-            if(arr[i]==0)  return i; 
+        int sum=0;
+        int c=0;
+        int i=0;
+        for(i=0;i<nums.size();i++)
+        {
+            c+=nums[i];
+            sum+=i;
         }
-            return -1;
+        sum+=i;
+        return sum-c;
     }
 };
