@@ -9,14 +9,15 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-	    ListNode *f = head;
-        ListNode *s = head;
-        while(f && f->next)
+        ios_base::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
+	    unordered_map<ListNode *,int> mp;
+        while(head)
         {
-            f = f->next->next;
-            s = s->next;
-            if(f == s)
-                return true;
+            if(mp[head]==0) mp[head]++;
+            else return true;
+            head=head->next;
         }
         return false;
     }
