@@ -1,6 +1,9 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
+        ios_base::sync_with_stdio(0);
+        cin.tie(0);
+        cout.tie(0);
         unordered_map<char,int>mp1,mp2;
         for(auto i:t)
             mp1[i]++;
