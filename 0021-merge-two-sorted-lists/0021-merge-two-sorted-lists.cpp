@@ -1,26 +1,43 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
-
 class Solution {
 public:
-    ListNode *mergeTwoLists(ListNode *list1, ListNode *list2) {
-        if(list1 == NULL) return list2;
-        if(list2 == NULL) return list1;
-        if(list1->val <= list2->val) {
-        	list1->next = mergeTwoLists(list1->next, list2);
-        	return list1;
+    ListNode* itr(ListNode* h,ListNode* l1, ListNode* l2){
+        while(l1 && l2){
+            if(l1->val<l2->val){
+                h->next=l1;
+                h=l1;
+                l1=l1->next;
+            } 
+            else{
+                h->next=l2;
+                h=l2;
+                l2=l2->next;
+            }
         }
-        else {
-        	list2->next = mergeTwoLists(list1, list2->next);
-        	return list2;
+        while(l1){
+            h->next=l1;
+            h=l1;
+            l1=l1->next;
         }
+        while(l2){
+            h->next=l2;
+            h=l2;
+            l2=l2->next;
+        }
+        return h;
+    }
+    ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
+        ListNode* head,*h;
+        if (l1==NULL and l2==NULL) return NULL;
+        else if (l1!=NULL and l2==NULL) return l1;
+        else if (l1==NULL and l2!=NULL) return l2;
+        if(l1->val<l2->val){
+            h=l1;head=l1;
+            itr(h,l1->next,l2);
+        }
+        else{
+            h=l2;head=l2;
+            itr(h,l1,l2->next);
+        }
+        return head;
     }
 };
