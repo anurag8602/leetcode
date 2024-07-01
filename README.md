@@ -24,4 +24,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/anurag8602/leetcode/tree/master/0410-split-array-largest-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/anurag8602/leetcode/tree/master/0076-minimum-window-substring) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/anurag8602/leetcode/tree/master/0076-minimum-window-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/anurag8602/leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
