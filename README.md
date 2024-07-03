@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/anurag8602/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anurag8602/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/anurag8602/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anurag8602/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -36,4 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/anurag8602/leetcode/tree/master/0076-minimum-window-substring) |
+## Sorting
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anurag8602/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
