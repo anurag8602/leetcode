@@ -5,7 +5,6 @@ public:
         cin.tie(0);
         cout.tie(0);
         unordered_map<string,int>mp;
-        vector<string>dis;
         for(auto i:arr)
         {
             mp[i]++;
@@ -13,10 +12,10 @@ public:
         for(auto i:arr)
         {
             if(mp[i]==1)
-                dis.push_back(i);
+                k--;
+            if(k==0) return i;
         }
-        if(dis.size()<k)
-            return "";
-        return dis[k-1];
+        return "";
+
     }
 };
