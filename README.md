@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/anurag8602/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/anurag8602/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0890-lemonade-change](https://github.com/anurag8602/leetcode/tree/master/0890-lemonade-change) |
+| [1036-rotting-oranges](https://github.com/anurag8602/leetcode/tree/master/1036-rotting-oranges) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anurag8602/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/anurag8602/leetcode/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anurag8602/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -75,4 +76,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anurag8602/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/anurag8602/leetcode/tree/master/1036-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/anurag8602/leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
