@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/anurag8602/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0890-lemonade-change](https://github.com/anurag8602/leetcode/tree/master/0890-lemonade-change) |
 | [1036-rotting-oranges](https://github.com/anurag8602/leetcode/tree/master/1036-rotting-oranges) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anurag8602/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/anurag8602/leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/anurag8602/leetcode/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anurag8602/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -33,11 +34,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/anurag8602/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anurag8602/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/anurag8602/leetcode/tree/master/0076-minimum-window-substring) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anurag8602/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anurag8602/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anurag8602/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
@@ -49,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/anurag8602/leetcode/tree/master/0076-minimum-window-substring) |
+| [1370-count-number-of-nice-subarrays](https://github.com/anurag8602/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/anurag8602/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1642-water-bottles](https://github.com/anurag8602/leetcode/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/anurag8602/leetcode/tree/master/2645-pass-the-pillow) |
 ## Simulation
