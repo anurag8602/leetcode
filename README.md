@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/anurag8602/leetcode/tree/master/0410-split-array-largest-sum) |
+| [1250-longest-common-subsequence](https://github.com/anurag8602/leetcode/tree/master/1250-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/anurag8602/leetcode/tree/master/0076-minimum-window-substring) |
+| [1250-longest-common-subsequence](https://github.com/anurag8602/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1720-crawler-log-folder](https://github.com/anurag8602/leetcode/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anurag8602/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Sliding Window
