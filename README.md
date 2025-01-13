@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/anurag8602/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/anurag8602/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anurag8602/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/anurag8602/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/anurag8602/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1720-crawler-log-folder](https://github.com/anurag8602/leetcode/tree/master/1720-crawler-log-folder) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anurag8602/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/anurag8602/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/anurag8602/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/anurag8602/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
